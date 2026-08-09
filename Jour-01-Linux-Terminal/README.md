@@ -25,5 +25,5 @@ Ce que j’ai appris
 
 J’ai appris à naviguer dans le système de fichiers Linux, créer des dossiers et des fichiers, écrire dans un fichier et afficher son contenu.
 
-Projet : Mission 2030
+Projet : Mission-2030
 Étudiant : Ahmat Abakar Tahir
