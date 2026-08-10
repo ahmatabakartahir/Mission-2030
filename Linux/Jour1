@@ -1,0 +1,26 @@
+Jour 1 — Linux Terminal
+
+	Objectif
+
+		Découvrir le terminal Linux et les commandes de base.
+
+	Commandes étudiées :
+
+			* pwd : affiche le dossier actuel
+			* ls : affiche le contenu d’un dossier
+			* ls -l : affiche le contenu avec les détails
+			* cd : change de dossier
+			* mkdir : crée un dossier
+			* touch : crée un fichier vide
+			* echo : écrit du texte
+			* cat : affiche le contenu d’un fichier
+			
+	Exercice réalisé :
+
+			Création d’un dossier TP1, d’un fichier notes.txt, écriture de mon nom dans le fichier et affichage du contenu avec cat.
+
+	Ce que j’ai appris :
+
+			J’ai appris à naviguer dans le système de fichiers Linux, créer des dossiers et des fichiers, écrire dans un fichier et afficher son contenu.
+
+	Date : 9 août 2026
